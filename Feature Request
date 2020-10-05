@@ -1,0 +1,24 @@
+---
+name: Feature Request
+about: blocks certen items going though it 
+title: 'Item bocker'
+labels: feature request
+assignees: 'M.Duggan'
+
+---
+What is the "item Blocker"? 
+The Item blocker would use the normal sorter gui and the design would be a sorter with X's on both sides like the invetered sorter has markings on the sides. 
+In conjuction with unloaders this could be better as say you want everything else from core but one item say lead or copper this would allow everthing else pass but those items.
+What the blocker will do is that it would stop the selected item from passing through it, will not be like the sorter's and will be like a juction so it goses in 1 direction.
+this should be simple to make as you could use the original sorter code. 
+
+How will it improve the game
+Well the blocker will help with newer designs and to make sorting less fustrating mess of sorter chains jut to remove one item and would be neat to have it.
+more compact designs. im sure the mindustry community would like this small block to be added and it wont affect gameplay at all just a nice and better way to sort.
+
+
+
+
+1. - [x] I have done a quick search in the list of suggestions to make sure this has not been suggested yet.
+2. - [x] I have checked the [Trello](https://trello.com/b/aE2tcUwF/mindustry-trello) to make sure my suggestion isn't planned or implemented in a development version.
+3. - [x] I am familiar with all the content already in the game or have glanced at the wiki to make sure my suggestion doesn't exist in the game yet.
